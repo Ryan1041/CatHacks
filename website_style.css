@@ -1,0 +1,34 @@
+body {
+    background-color: #228B22;
+}
+h1 {
+    text-align:center;
+    color: ;
+    text-decoration: underline;
+}
+th {
+    color: ;
+    text-decoration: underline;
+}
+tr {
+    text-align:center;
+    color: ;
+}
+table{
+    text-align:center;
+}
+
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+.button1{
+    position: absolute;
+	top: 50%;
+	left: 51.5%;
+}
+.button2{
+    position: absolute;
+    top: 37%;
+    left: 51.5%;
+}
